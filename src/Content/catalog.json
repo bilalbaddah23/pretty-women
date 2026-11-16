@@ -1,0 +1,162 @@
+{
+  "brand": "Pretty Women",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/pretty.women.lb/",
+  "hours": "Confirm with the shop",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-04.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg"
+  ],
+  "products": [
+    {
+      "id": "illustrated-white-sweatshirt",
+      "name": "Illustrated White Sweatshirt",
+      "collection": "Sweatshirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "White crew-neck sweatshirt with an illustrated figure on the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/DfgeOJmgve6/"
+    },
+    {
+      "id": "black-graphic-sweatshirt",
+      "name": "Black Graphic Sweatshirt",
+      "collection": "Sweatshirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black crew-neck sweatshirt with a light graphic across the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/Dfgdce9Ca_9/"
+    },
+    {
+      "id": "black-hooded-set",
+      "name": "Black Hooded Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black zip hoodie and matching casual trousers photographed together. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/DfgdAbxApjc/"
+    },
+    {
+      "id": "navy-floral-sweater",
+      "name": "Navy Floral Sweater",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Navy sweater with a small floral arrangement on the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/DfXRJ6LAolg/"
+    },
+    {
+      "id": "black-cutout-top",
+      "name": "Black Cutout Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black long-sleeve top with an oval cutout detail near the neckline. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/DevhGLFAn3F/"
+    },
+    {
+      "id": "cream-graphic-sweater",
+      "name": "Cream Graphic Sweater",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Cream sweater with a colourful tiger-style graphic on the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/DedenTSAuyf/"
+    },
+    {
+      "id": "grey-padded-jacket",
+      "name": "Grey Padded Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "Grey short padded jacket photographed on a hanger in a clothing shop. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/Dedd2IbC7qQ/"
+    },
+    {
+      "id": "black-cropped-top",
+      "name": "Black Cropped Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black cropped long-sleeve top styled with light denim. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/pretty.women.lb/p/DeddoU0gliO/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

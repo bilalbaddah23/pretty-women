@@ -1,0 +1,337 @@
+{
+  "brand": "Pretty Women",
+  "handle": "pretty.women.lb",
+  "phone": null,
+  "displayPhone": null,
+  "instagram": "https://www.instagram.com/pretty.women.lb/",
+  "contactMode": "instagram",
+  "hours": "Confirm with the shop",
+  "followersObserved": 6525,
+  "followersDisplay": "6.5K",
+  "postCountObserved": 261,
+  "latestVisiblePost": "2026-11-09",
+  "researchDate": "2026-11-16",
+  "profileBio": "Online shop\nExchange only\nNo refund\nDelivery door to door\nCash on Delivery",
+  "bioLinks": [],
+  "branches": [],
+  "about": "Pretty Women is an online clothing shop whose public Instagram collection includes sweatshirts, knitwear, coordinated casual looks and seasonal jackets. The profile advertises door-to-door delivery and cash on delivery. Customers can ask about pieces and availability through its Instagram account.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-04.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-01.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-13.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-03.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-04.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-08.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-10.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-11.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "illustrated-white-sweatshirt",
+      "name": "Illustrated White Sweatshirt",
+      "category": "Sweatshirts",
+      "description": "White crew-neck sweatshirt with an illustrated figure on the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-01.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-13.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfgeOJmgve6/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-graphic-sweatshirt",
+      "name": "Black Graphic Sweatshirt",
+      "category": "Sweatshirts",
+      "description": "Black crew-neck sweatshirt with a light graphic across the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/Dfgdce9Ca_9/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-hooded-set",
+      "name": "Black Hooded Set",
+      "category": "Coordinated looks",
+      "description": "Black zip hoodie and matching casual trousers photographed together. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfgdAbxApjc/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "navy-floral-sweater",
+      "name": "Navy Floral Sweater",
+      "category": "Knitwear",
+      "description": "Navy sweater with a small floral arrangement on the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfXRJ6LAolg/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-cutout-top",
+      "name": "Black Cutout Top",
+      "category": "Tops",
+      "description": "Black long-sleeve top with an oval cutout detail near the neckline. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DevhGLFAn3F/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "cream-graphic-sweater",
+      "name": "Cream Graphic Sweater",
+      "category": "Knitwear",
+      "description": "Cream sweater with a colourful tiger-style graphic on the front. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DedenTSAuyf/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "grey-padded-jacket",
+      "name": "Grey Padded Jacket",
+      "category": "Jackets",
+      "description": "Grey short padded jacket photographed on a hanger in a clothing shop. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/Dedd2IbC7qQ/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-cropped-top",
+      "name": "Black Cropped Top",
+      "category": "Tops",
+      "description": "Black cropped long-sleeve top styled with light denim. Ask Pretty Women to confirm the pictured pieces, brand, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DeddoU0gliO/",
+      "price": null,
+      "sizes": [
+        "Confirm with shop"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfgeOJmgve6/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-01.jpg",
+      "alt": "White illustrated sweatshirt styled with jeans",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "18a4f035fa5fc26c94ce5bd53eded1a2cf2cde75a3c3b67e0441675f989c4391",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": "2026-11-09",
+      "photoAltDate": "2026-11-08",
+      "dateNote": "Visible post time says Nov9,2026 while photoalt says Nov8,2026. Difference preserved without asserting cause.",
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/Dfgdce9Ca_9/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-03.jpg",
+      "alt": "Black graphic sweatshirt shown by Pretty Women",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "a3f9feaf01ba103d5e2701d58fb87b982fbfecec53c06dabf0b12333a22f79d2",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfgdAbxApjc/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-04.jpg",
+      "alt": "Black zip hoodie and matching trousers shown by Pretty Women",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "fca89f2a4afbbaf40278214072f8190b0100f136e529392596b8500f679dc442",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfXRJ6LAolg/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-06.jpg",
+      "alt": "Navy floral-embellished sweater shown by Pretty Women",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "1540b71ab8e73b78c9c83ef9aae81610717a1eadb723e876c1deccbc91a70704",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DevhGLFAn3F/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-08.jpg",
+      "alt": "Black long-sleeve cutout top styled with light jeans",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "5c5f3302248e49649621b0547ec0fb44290e104f90c5755f3501e59e965ebfd8",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DedenTSAuyf/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-10.jpg",
+      "alt": "Cream tiger-graphic sweater shown by Pretty Women",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "e54aa58e5ee87a40b5553dabfa306e0aa83f5fa6470583662fe5ff0886d6e3cb",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/Dedd2IbC7qQ/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-11.jpg",
+      "alt": "Grey padded jacket with a detachable-looking hood; details need owner confirmation",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1774,
+      "sha256": "c80e55afa299f52b18b146fbcad195a112731491d359f3bb9b8152ded704e2d6",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DeddoU0gliO/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-12.jpg",
+      "alt": "Black cropped long-sleeve top styled with light jeans",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "d5e9b3e94e3c6cd140ed1903103f8ed3522b71d59d5696238e2cf9fa59b25150",
+      "observedDate": "2026-11-16",
+      "observationMethod": "Native Brave Save As Webpage Complete artifact, filtered offline to IMG tags inside exact pretty.women.lb public business post anchors. No scripts, hydration, account avatar or private navigation exported.",
+      "aiLabelObserved": null,
+      "postDate": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    },
+    {
+      "sourcePost": "https://www.instagram.com/pretty.women.lb/p/DfgeOJmgve6/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-13.jpg",
+      "alt": "Close-up of the illustrated figure on the white sweatshirt",
+      "sourceImageType": "Instagram public photo/carousel cover",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "e19383671256fb9c65056064a0cfdf9fc9b222be39bec89b8f13da8b083667fa",
+      "observedDate": "2026-11-16",
+      "postDate": "2026-11-09",
+      "photoAltDate": "2026-11-08",
+      "dateNote": "Visible post time says Nov9,2026 while photoalt says Nov8,2026. Difference preserved without asserting cause.",
+      "observationMethod": "Native Brave Save As Webpage Complete after opening the exact first post; offline extraction limited to non-linked photo IMG tags whose alt explicitly names pretty.women.lb and observed photo date. Related-post links, scripts, hydration, navigation and avatars ignored.",
+      "aiLabelObserved": null,
+      "photographicAuthenticity": "Downloaded from this business’s rendered public post grid. Original ownership, brand authenticity and whether stock/model imagery was retouched or synthetic are not independently established."
+    }
+  ],
+  "websiteScreening": {
+    "brand": "Pretty Women",
+    "handle": "pretty.women.lb",
+    "instagram": "https://www.instagram.com/pretty.women.lb/",
+    "checkedDate": "2026-11-16",
+    "result": "No matching official website found in checked primary bio/external links and bounded business/handle searches; an unlisted website cannot be ruled out.",
+    "primaryReview": "Root agent inspected the exact profile in the user’s existing logged-in Brave session, using native UI. Full bio: Online shop / Exchange only / No refund / Delivery door to door / Cash on Delivery. No external bio link, phone number or Maps link was displayed.",
+    "restrictions": "Signed-out Instagram requires login for this age-restricted profile. No age gate was bypassed; root used the user’s existing signed-in session. Only public business post imagery was selected from the native Save As artifact.",
+    "queries": [
+      "\"pretty.women.lb\" website",
+      "\"Pretty Women\" Lebanon boutique website",
+      "\"pretty.women.lb\" instagram",
+      "\"pretty.women.lb\" Facebook",
+      "\"pretty women lb\" boutique",
+      "\"prettywomenlb\"",
+      "\"Pretty Women\" \"Lebanon\" \"clothes\""
+    ],
+    "excludedSameNameMatches": [
+      "Pretty Women in Bakaata by Al Afrah Pastry is an unverified directory identity and its phone was not attributed.",
+      "Pretty Women beauty salons in Khaldah and Bhamdoun are unrelated and excluded."
+    ],
+    "limitations": [
+      "No claimed phone number, street address, precise Maps pin or opening hours.",
+      "Website absence cannot be established with certainty."
+    ]
+  },
+  "contentLimitations": [
+    "No prices, sizes, stock, original-brand authenticity guarantees or material certifications were invented.",
+    "No phone or branch address is published because none was verified in the public bio.",
+    "Only selected public business images and derived research are suitable for publication. Raw saved HTML/resources and native AX files remain private local working artifacts and must not be committed.",
+    "No product imagery was generated, no video frame was extracted and no image was upscaled.",
+    "Public catalogue/model photography may be retouched or synthetic; no independent photographic-authenticity claim is made."
+  ],
+  "excludedAssets": [
+    {
+      "file": "pretty-women-02.jpg",
+      "reason": "Multi-panel catalogue collage; omitted for a cleaner website gallery."
+    },
+    {
+      "file": "pretty-women-05.jpg",
+      "reason": "Multi-panel denim collage; omitted for a cleaner gallery."
+    },
+    {
+      "file": "pretty-women-07.jpg",
+      "reason": "Own public Reel cover with large letterboxing; omitted. No video frame extraction performed."
+    },
+    {
+      "file": "pretty-women-09.jpg",
+      "reason": "Visually duplicate repost of image02 and also a multi-panel collage; omitted."
+    }
+  ]
+}

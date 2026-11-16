@@ -1,0 +1,119 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-01.jpg",
+    "sha256": "18a4f035fa5fc26c94ce5bd53eded1a2cf2cde75a3c3b67e0441675f989c4391",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-13.jpg",
+    "sha256": "e19383671256fb9c65056064a0cfdf9fc9b222be39bec89b8f13da8b083667fa",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-03.jpg",
+    "sha256": "a3f9feaf01ba103d5e2701d58fb87b982fbfecec53c06dabf0b12333a22f79d2",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-04.jpg",
+    "sha256": "fca89f2a4afbbaf40278214072f8190b0100f136e529392596b8500f679dc442",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-06.jpg",
+    "sha256": "1540b71ab8e73b78c9c83ef9aae81610717a1eadb723e876c1deccbc91a70704",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-08.jpg",
+    "sha256": "5c5f3302248e49649621b0547ec0fb44290e104f90c5755f3501e59e965ebfd8",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-10.jpg",
+    "sha256": "e54aa58e5ee87a40b5553dabfa306e0aa83f5fa6470583662fe5ff0886d6e3cb",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-11.jpg",
+    "sha256": "c80e55afa299f52b18b146fbcad195a112731491d359f3bb9b8152ded704e2d6",
+    "originalDimensions": [
+      1440,
+      1774
+    ],
+    "webDimensions": [
+      1380,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\pretty-women\\images\\pretty-women-12.jpg",
+    "sha256": "d5e9b3e94e3c6cd140ed1903103f8ed3522b71d59d5696238e2cf9fa59b25150",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  }
+]
